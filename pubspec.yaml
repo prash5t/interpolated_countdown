@@ -1,7 +1,7 @@
 name: interpolated_countdown
 description: Flutter package for a countdown widget with interpolated colors.
 version: 1.0.0
-homepage:
+homepage: https://github.com/aprashantz/interpolated_countdown
 
 environment:
   sdk: ">=3.1.2 <4.0.0"
