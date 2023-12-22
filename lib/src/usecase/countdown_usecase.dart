@@ -1,6 +1,6 @@
 part of interpolated_countdown;
 
-class CountdownUseCase {
+class CountDownUseCase {
   late ValueNotifier<int> secondsRemaining;
   late ValueNotifier<Color> outerPlateColor;
   late ValueNotifier<Color> innerPlateColor;
@@ -12,7 +12,7 @@ class CountdownUseCase {
 
   ColorsInterpolator utils = ColorsInterpolator();
 
-  CountdownUseCase({
+  CountDownUseCase({
     double timerTextSize = 55,
     double diameter = 204,
     Duration totalDuration = const Duration(seconds: 30),

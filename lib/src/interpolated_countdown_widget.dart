@@ -1,7 +1,7 @@
 part of interpolated_countdown;
 
 class InterpolatedCountDownWidget extends StatefulWidget {
-  final CountdownUseCase countdownUseCase;
+  final CountDownUseCase countdownUseCase;
 
   const InterpolatedCountDownWidget({
     Key? key,
@@ -40,7 +40,7 @@ class _InterpolatedCountDownWidgetState
 
   @override
   Widget build(BuildContext context) {
-    CountdownUseCase usecase = widget.countdownUseCase;
+    CountDownUseCase usecase = widget.countdownUseCase;
     return AnimatedBuilder(
       animation: animationController,
       builder: (context, child) {
