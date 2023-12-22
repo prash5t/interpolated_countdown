@@ -1,3 +1,3 @@
-## 0.0.1
+## [1.0.0] - 23/12/2023
 
-* TODO: Describe initial release.
+- First version
