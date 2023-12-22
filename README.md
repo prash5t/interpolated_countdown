@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aprashantz/interpolated_countdown/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/SebastienBtr/Dash-Chat-2?label=License" />
-  </a>
-  <!-- <a href="https://pub.dev/packages/dash_chat_2">
+  <!-- <a href="https://github.com/aprashantz/interpolated_countdown/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/aprashantz/interpolated_countdown?label=License" />
+  </a> -->
+  <a href="https://pub.dev/packages/interpolated_countdown">
     <img alt="Pub version" src="https://img.shields.io/pub/v/interpolated_countdown?color=blue" />
-  </a> -->
-  <!-- <a href="#contributors">
+  </a>
+  <!--<a href="#contributors">
     <img alt="Contributors" src="https://img.shields.io/github/all-contributors/aprashantz/interpolated_countdown/main" />
-  </a> -->
-</p>
+  </a>
+</p> -->
 
 ## Installation
 
