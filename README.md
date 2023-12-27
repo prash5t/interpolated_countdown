@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/mSTcwbg/banner.jpg" />
+  <img src="https://i.ibb.co/XYsJCRM/banner.jpg" />
   <h4 align="center">Interpolated Countdown</h3>
   <p align="center">
       Easy to use class to build interpolated countdown widget

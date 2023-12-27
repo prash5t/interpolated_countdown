@@ -1,3 +1,7 @@
+## [1.0.2] - 27/12/2023
+
+- minor
+
 ## [1.0.1] - 23/12/2023
 
 - Update banner of readme, no other changes
